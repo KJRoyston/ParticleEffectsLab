@@ -40,7 +40,7 @@ Local means all the positions of the particle are relative to where the particle
 
 Try to mess around with the settings to create a believable sparkler effect. Here is a gif of what we created for reference. If you get stuck check out our settings for reference, you can also just ask us directly!
 
-![](markdown_images/image_4.gif)
+![](https://i.gyazo.com/cd2590a4325e5ce32e8e9611e170f9aa.gif)
 
 ![](markdown_images/image_5.png)![](markdown_images/image_6.png)
 
